@@ -1,0 +1,3 @@
+name: PersistentBlockAPI
+version: 1.0.1
+main: com.gestankbratwurst.persistentblockapi.PersistentBlockPlugin
