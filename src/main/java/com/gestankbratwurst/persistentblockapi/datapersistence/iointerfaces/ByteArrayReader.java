@@ -77,12 +77,12 @@ public class ByteArrayReader implements PersistentDataReader {
 			}
 			
 			if(stream.read() != -1) {
-				System.out.println("§cERROR§f >>> §cUnexpected byte length.");
+				System.out.println("Â§cERRORÂ§f >>> Â§cUnexpected byte length.");
 			}
 			stream.close();
 			
 		} catch (IOException e) {
-			System.out.println("§cERROR§f >>> §cFailed to load PersistentBlock §f:§c IOException.");
+			System.out.println("Â§cERRORÂ§f >>> Â§cFailed to load PersistentBlock Â§f:Â§c IOException.");
 			return null;
 		}
 		

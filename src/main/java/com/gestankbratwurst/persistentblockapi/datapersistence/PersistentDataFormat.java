@@ -1,6 +1,6 @@
 package com.gestankbratwurst.persistentblockapi.datapersistence;
 
-import javax.annotation.Nullable;
+import org.jetbrains.annotations.Nullable;
 
 import com.gestankbratwurst.persistentblockapi.datapersistence.iointerfaces.ByteArrayReader;
 import com.gestankbratwurst.persistentblockapi.datapersistence.iointerfaces.ByteArrayWriter;
