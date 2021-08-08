@@ -11,6 +11,8 @@ out/
 .bloop/
 .bsp/
 
+.factorypath
+
 .classpath
 .project
 .settings/
